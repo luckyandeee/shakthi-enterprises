@@ -31,7 +31,7 @@
 
 }
 #home{
-    background: url(/images/homepageBanner.jpg);
+    background: url(images/homepageBanner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center  ;

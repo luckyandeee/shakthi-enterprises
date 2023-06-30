@@ -44,7 +44,7 @@
 }
 ul { padding-left: 20px; list-style-type: none; } ul li { padding-left: 30px;}
 li::before{
-    
+    font-family: "FontAwesome";
   content: "&#xf00c";
   display: inline-block;
   padding-right: 3px;
